@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Pops_2022.props" />
+</Project>
